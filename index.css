@@ -29,8 +29,8 @@ position:sticky;
 top:0;
 z-index:1000;
 
-background:rgba(15,15,15,.95);
-backdrop-filter:blur(15px);
+background:rgba(44, 38, 38, 0.95);
+backdrop-filter:blur(2px);
 
 display:flex;
 justify-content:space-between;
