@@ -15,6 +15,7 @@ Then make a big rectangle that says.. Pre order for Saturday. Do this and let's 
 - Added some writeups
 - Added a contact part to my first header
 - Made the second header sticky
+- generated a customised image I used for the logo
        
 
        FOR THE MENU SECTION
@@ -29,7 +30,7 @@ ENGENEERING I DID
 
 
       TRUST/WHY CHOOSE US ? SECTION
-Make another section that would  praise the kitchen,, praise the chef, praise the food and everything. And then, um, in That same section, write small things, the same black. Then the right Should be somehow deep, dark color.
+Make another section that would  praise the kitchen,, praise the chef, praise the food and everything. And then, um, in That same section, write small things, while using the same black colored background. Then the right Should be somehow deep, dark color.
 
 ENGINEERING I DID
 - I added real words to suit the page
@@ -48,6 +49,7 @@ GoOD, This one looks premium. Now, make another SECTION.  I don't know what you 
 Good. Now the final part, which is the footer. This is how the footer will be. The footer will be very, very nice. So, the first one, it will be divided into three parts. The first part would have a white color, that will contain words like "treat yourself to authentic meal", in small, typography, the way you normally do, and golden filling. Then, in a bold letter, very bold of about 3 rem.., "let us take care of you". Then you write that same word we used in the hero section "pre-order for Saturday" again beneath it. In that same column, by the right, you put an image of a traditional meal. Then the second part of the footer would be a brown color. It would have the logo. It will have a visit us in one grid. you put a location and a phone number in another grid, working hours in a seperate grid, you put time. Quick links in another grid, And then, one that send a quick message,  Then enter your email and subscribe All these things should exist in one section and one grid. Then the final part, which will be the one underneath, you now write the @copy, like copyright, Mama put Online 2026.
 
 ENGINEERING I DID
-- I gave the image a good sittin
+- I gave the image a good sitting
 - I added a logo to the footer
 - I change colors to the footer sections
+- I added image and changed some colors.

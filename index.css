@@ -33,8 +33,6 @@ body{
     color:#fff;
     padding:12px 0;
     font-size:15px;
-    position: sticky;
-    z-index: 9999;
 }
 
 .top-bar .container{
@@ -49,11 +47,13 @@ body{
 
 header{
     background:#fff;
-    position:absolute;
+    position: sticky;
     width:100%;
     top:48px;
     left:0;
+    top: 0;
     z-index:999;
+    border-bottom: 2px solid #c19a2d;
 }
 
 .nav{
@@ -626,6 +626,13 @@ background:#d4af37;
 font-weight:700;
 cursor:pointer;
 
+}
+
+footer img{
+    width: 100px;
+    height: 60px;
+    object-fit: cover;
+    border: 2px solid #c19a2d;
 }
 
 .footer-newsletter button:hover{
