@@ -53,3 +53,4 @@ ENGINEERING I DID
 - I added a logo to the footer
 - I change colors to the footer sections
 - I added image and changed some colors.
+- I built a whole new section (FEATURED DISHES AND PEOPLE'S REVIEW) from scratch.
